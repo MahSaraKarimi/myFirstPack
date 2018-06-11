@@ -1,0 +1,25 @@
+{
+  "name": "@sarakarimi/myfirstpack",
+  "version": "0.1.0",
+  "description": "it's a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "keywords": [
+    "firstPack"
+  ],
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "sarakarimi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}

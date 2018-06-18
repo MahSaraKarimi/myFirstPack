@@ -1,6 +1,6 @@
 {
   "name": "@sarakarimi/myfirstpack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "it's a package",
   "main": "index.js",
   "scripts": {
